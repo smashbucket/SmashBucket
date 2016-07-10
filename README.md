@@ -39,7 +39,7 @@
             <div class="content_wrapper">
             	<div class="content about_sec">
                 	<h2>About Us</h2>
-                    <span class="about">Founded in 2013, Smash Bucket was created by a team social media, data science, and mobile technology <br/>experts to answer a void in the marketplace.  Our commitment to establishing a unique environment for brands <br/>and users to interact in real-time is reflective of our collective interest in sound user experience and helping brands <br/>build loyalty.  Our team has worked across various industries at the global level to build innovative solutions for <br/>Fortune 500 companies and continues to challenge the continuously changing digital media environment. </span>
+                    <span class="about">We are hellbent on empowering people to take control of their own data. <br/>experts to answer a void in the marketplace.  Our commitment to establishing a unique environment for brands <br/>and users to interact in real-time is reflective of our collective interest in sound user experience and helping brands <br/>build loyalty.  Our team has worked across various industries at the global level to build innovative solutions for <br/>Fortune 500 companies and continues to challenge the continuously changing digital media environment. </span>
                 </div>
             </div>
             <div id="footer">
